@@ -1,0 +1,14 @@
+install R 
+install warbleR package from github
+
+for processing
+add the path of the file you want to process in the code
+
+to run from the terminal - Rscript cs_419_pro.R
+select window for audio processing 
+outputfile named "output_audio_processing.csv" is created in the format as specified in the paper
+
+
+
+use rpy2 to integrate the R with python
+ 
