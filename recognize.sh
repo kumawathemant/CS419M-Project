@@ -1,3 +1,3 @@
 python record.py
-Rscript sumanth.R
+Rscript audio_procc.R
 python Testing_our_model.py
